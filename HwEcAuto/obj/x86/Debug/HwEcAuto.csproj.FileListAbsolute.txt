@@ -1,0 +1,11 @@
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Debug\HwEcAuto.MainWnd.resources
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Debug\HwEcAuto.Properties.Resources.resources
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Debug\HwEcAuto.csproj.GenerateResource.Cache
+D:\code\windows\HwEcAuto\HwEcAuto\bin\Debug\HwEcAuto.exe
+D:\code\windows\HwEcAuto\HwEcAuto\bin\Debug\HwEcAuto.pdb
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Debug\HwEcAuto.exe
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Debug\HwEcAuto.pdb
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Debug\HwEcAuto.csprojResolveAssemblyReference.cache
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Debug\HwEcAuto.csproj.ResolveComReference.cache
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Debug\HwEcAuto.LEDWnd.resources

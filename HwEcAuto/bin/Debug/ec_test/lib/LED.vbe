@@ -1,0 +1,2 @@
+set ws=wscript.createobject("wscript.shell")  
+ws.run "LED.bat /start",0  

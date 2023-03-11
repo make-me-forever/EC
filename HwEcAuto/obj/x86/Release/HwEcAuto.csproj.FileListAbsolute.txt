@@ -1,0 +1,9 @@
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Release\HwEcAuto.MainWnd.resources
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Release\HwEcAuto.Properties.Resources.resources
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Release\HwEcAuto.csproj.GenerateResource.Cache
+D:\code\windows\HwEcAuto\HwEcAuto\bin\Release\HwEcAuto.exe
+D:\code\windows\HwEcAuto\HwEcAuto\bin\Release\HwEcAuto.pdb
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Release\HwEcAuto.exe
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Release\HwEcAuto.pdb
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\code\windows\HwEcAuto\HwEcAuto\obj\x86\Release\HwEcAuto.csproj.ResolveComReference.cache
